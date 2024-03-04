@@ -1,0 +1,6 @@
+1. Select one band from an image
+(1) raster calculator
+(2) rearrange bands
+(3) gdal-translate (Raster->Conversion->Translate)
+
+
